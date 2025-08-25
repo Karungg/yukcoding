@@ -6,7 +6,7 @@ Project "Yukcoding OOP CRUD Barang" ini adalah sebuah aplikasi web sederhana yan
 
 | Halaman Dashboard | Halaman CRUD Barang |
 | :---: | :---: |
-| ![Tampilan Dashboard](https://github.com/Karungg/yukcoding/assets/img/docs/1.png) | ![Tampilan CRUD Barang](https://github.com/Karungg/yukcoding/assets/img/docs/2.png) |
+| ![Tampilan Dashboard](https://github.com/Karungg/yukcoding/blob/main/assets/img/docs/1.png) | ![Tampilan CRUD Barang](https://github.com/Karungg/yukcoding/blob/main/assets/img/docs/2.png) |
 
 ### Teknologi yang Digunakan
 
