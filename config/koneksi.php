@@ -2,5 +2,5 @@
 
 $host = 'localhost';
 $user = 'root';
-$pass = '';
+$pass = '#Karung123';
 $database = 'db_yukcoding';
